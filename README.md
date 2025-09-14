@@ -24,9 +24,9 @@ Le but de ce projet est de simuler le système solaire de manière interactive.
 
 <h4>Lors de ce projet, j'ai implémenté :</h4>
   <ul>
-    <li>les contrôles de l’utilisateur</li>
-    <li>les formules pour le déplacement des astres</li>
-    <li>les calculs des outils de visualisation des forces</li>
+    <li>les contrôles de l’utilisateur.</li>
+    <li>les formules pour le déplacement des astres.</li>
+    <li>les calculs des outils de visualisation des forces.</li>
   </ul>
 
 
