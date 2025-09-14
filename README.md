@@ -12,7 +12,7 @@
 
 - PC
 
-<h3>À propos</h3>
+<h3>ℹ️ À propos</h3>
 
 Ce projet a été réalisé par une équipe de 3 game programmers sur une durée de 1 mois.
 Le but de ce projet est de simuler le système solaire de manière interactive.
